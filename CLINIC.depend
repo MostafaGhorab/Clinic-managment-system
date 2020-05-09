@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1534091012 source:c:\users\mostafa\desktop\aqua\new folder\clinic\main.c
+	"header.h"
+	"mm.c"
+
+1534090993 c:\users\mostafa\desktop\aqua\new folder\clinic\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1534090980 c:\users\mostafa\desktop\aqua\new folder\clinic\mm.c
+	"header.h"
+
+1534090980 source:c:\users\mostafa\desktop\aqua\new folder\clinic\mm.c
+	"header.h"
+
+1540492360 source:c:\users\mostafa\desktop\clinic\main.c
+	"header.h"
+	"mm.c"
+
+1566000659 c:\users\mostafa\desktop\clinic\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540492401 c:\users\mostafa\desktop\clinic\mm.c
+	"header.h"
+
+1540492401 source:c:\users\mostafa\desktop\clinic\mm.c
+	"header.h"
+
